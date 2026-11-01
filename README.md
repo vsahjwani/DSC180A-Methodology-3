@@ -1,3 +1,2 @@
-# DSC180A-Methodology-3
-Vani Sahjwani
-vsahjwani@ucsd.edu
+# DSC180A-Methodology-3 
+Vani Sahjwani and Juee Deshmukh
